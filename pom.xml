@@ -1,0 +1,9 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>MyMavenProject</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+  <name>MyMavenProject</name>
+</project>
+
